@@ -51,7 +51,7 @@ export const sortingAlgorithmsData = {
   bubble: {
     title: "Bubble Sort",
     description:
-      "A simple comparison-based sorting algorithm. Bubble sort repeatedly compares and swaps adjacent elements if they are in the wrong order, moving larger elements towards the end with each pass through the list. This process continues until the list is sorted and no more swaps are needed.",
+      "Bubble sort is a simple sorting algorithm that repeatedly steps through the input list, element by element, comparing the current element with the one after it, swapping their values if needed. The passes through the list are repeated until no swaps have to be performed during a pass, which means that the list has become fully sorted.",
     worstCase: "O(n²)",
     averageCase: "O(n²)",
     bestCase: "O(n)",
@@ -59,7 +59,7 @@ export const sortingAlgorithmsData = {
   insertion: {
     title: "Insertion Sort",
     description:
-      "Insertion sort builds the final sorted array one element at a time, by repeatedly taking the next unsorted element and inserting it into its correct position among the previously sorted elements. This process continues until all elements have been inserted into their proper place, resulting in a sorted list.",
+      "Insertion Sort is a simple sorting algorithm that builds the final sorted array (or list) one item at a time. It iterates through each element of the input list and compares it sequentially with elements in the sorted part of the list. It moves larger elements one position to the right until it finds the appropriate position for the current element, inserting it there.",
     worstCase: "O(n²)",
     averageCase: "O(n²)",
     bestCase: "O(n)",
@@ -67,7 +67,7 @@ export const sortingAlgorithmsData = {
   selection: {
     title: "Selection Sort",
     description:
-      "Selection sort works by repeatedly finding the minimum element from the unsorted portion of the list and swapping it with the element at the current position. This process is continued for each position in the list, moving the boundary of the sorted and unsorted portions one element forward each time until the entire list is sorted.",
+      "Selection Sort is a straightforward sorting algorithm that repeatedly selects the smallest (or largest, depending on sorting order) unsorted element and swaps it with the element at the current position in the sorted portion of the list. This process continues until the entire list is sorted.",
     worstCase: "O(n²)",
     averageCase: "O(n²)",
     bestCase: "O(n²)",
@@ -75,7 +75,7 @@ export const sortingAlgorithmsData = {
   merge: {
     title: "Merge Sort",
     description:
-      "Merge sort divides the unsorted list into n sublists, each containing one element (a list of one element is considered sorted), and then repeatedly merges these sublists to produce new sorted sublists until there is only one sublist remaining, which is the sorted list. This algorithm uses a divide-and-conquer approach, splitting the list in half recursively and merging the sorted halves back together.",
+      "Merge Sort is a divide-and-conquer algorithm that divides the input array into two halves, recursively sorts each half, and then merges the sorted halves to produce a sorted array. It works by repeatedly dividing the array until each subdivision contains one element (trivially sorted), and then merging pairs of adjacent subdivisions while maintaining order.",
     worstCase: "O(n log n)",
     averageCase: "O(n log n)",
     bestCase: "O(n log n)",
@@ -83,7 +83,7 @@ export const sortingAlgorithmsData = {
   quick: {
     title: "Quick Sort",
     description:
-      "Quick sort selects a 'pivot' element from the array and partitions the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then sorted recursively, and the sorted sub-arrays are combined with the pivot to form the sorted array.",
+      "Quick Sort is a divide-and-conquer sorting algorithm that works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays according to whether they are less than or greater than the pivot. It then recursively sorts the sub-arrays.",
     worstCase: "O(n²)",
     averageCase: "O(n log n)",
     bestCase: "O(n log n)",

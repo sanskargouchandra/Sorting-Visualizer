@@ -18,7 +18,7 @@ export const Select = ({
         disabled={isDisabled}
         onChange={onChange}
         defaultValue={defaultValue}
-        className="block appearance-none h-8 w-full bg-system-purple10 border-system-purple20 border px-4 py-1 pr-8 rounded-lg shadow leading-tight focus:outline-none focus:shadow-outline text-gray-300"
+        className="block appearance-none h-8 w-full bg-system-purple10 border-system-purple60 border px-4 py-1 pr-8 rounded-lg shadow leading-tight focus:outline-none focus:shadow-outline text-gray-300"
       >
         {options.map((option) => (
           <option key={option.value} value={option.value}>
