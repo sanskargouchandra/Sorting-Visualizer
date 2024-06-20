@@ -1,6 +1,6 @@
 <div align="center">
 
- <hi> Sorting Visualizer</h1>
+ <h1> Sorting Visualizer</h1>
 
 <p>
 This Sorting Visualizer project is built using Next.js with TypeScript and styled with Tailwind CSS. It allows you to visualize various sorting algorithms such as Bubble Sort, Selection Sort, Quick Sort, Insertion Sort, and Merge Sort using animated bar graphs.
@@ -17,7 +17,7 @@ This Sorting Visualizer project is built using Next.js with TypeScript and style
 ![](https://img.shields.io/github/last-commit/sanskargouchandra/One-Note.svg)
 
 <h4>
-    <a href="https://Sorting-Visualizer-omega.vercel.app/">View Demo</a>
+    <a href="https://sorting-visualizer-five-chi.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/sanskargouchandra/Sorting-Visualizer/blob/master/README.md">Documentation</a>
   <span> · </span>
