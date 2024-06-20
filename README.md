@@ -69,7 +69,8 @@ This Sorting Visualizer project is built using Next.js with TypeScript and style
  <td>
 <a href="#"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="" width="30" height="30" /></a>
         </td>
-
+    </tr>
+</table>
 ## Installation
 
 Follow these steps to run the Sorting Visualizer project locally:
