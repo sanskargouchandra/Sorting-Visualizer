@@ -11,10 +11,10 @@ This Sorting Visualizer project is built using Next.js with TypeScript and style
 
 <a href="https://Sorting-Visualizer-omega.vercel.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo) 
-![](https://img.shields.io/github/forks/sanskargouchandra/Sorting-Visualizer.svg)
-![](https://img.shields.io/github/stars/sanskargouchandra/Sorting-Visualizer.svg)
-![](https://img.shields.io/github/issues/sanskargouchandra/Sorting-Visualizer)
-![](https://img.shields.io/github/last-commit/sanskargouchandra/Sorting-Visualizer.svg)
+![](https://img.shields.io/github/forks/sanskargouchandra/One-Note.svg)
+![](https://img.shields.io/github/stars/sanskargouchandra/One-Note.svg)
+![](https://img.shields.io/github/issues/sanskargouchandra/One-Note)
+![](https://img.shields.io/github/last-commit/sanskargouchandra/One-Note.svg)
 
 <h4>
     <a href="https://Sorting-Visualizer-omega.vercel.app/">View Demo</a>
