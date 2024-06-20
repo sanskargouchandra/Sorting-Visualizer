@@ -51,9 +51,24 @@ This Sorting Visualizer project is built using Next.js with TypeScript and style
     <li><a href="https://#/">Typescript</a></li>
     <li><a href="https://nextjs.org/">Next.js</a></li>
     <li><a href="https://reactjs.org/">React.js</a></li>
-   <li><a href="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg">TailwindCSS</a></li>
+   <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
   </ul>
 </details>
+
+<table>
+    <tr>
+        <td>
+<a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ43SLIumoq2cJO1B4r28AVD4T3gI-kQcvgL-IP7FP9aETpyRoTxy3tq46ENq_Xovx3T9Q&usqp=CAU" alt="" width="30" height="30" /></a>
+        </td>
+                        <td>
+<a href="#"><img src="https://user-images.githubusercontent.com/99184393/183096870-fdf58e59-d78c-44f4-bd1c-f9033c16d907.png" alt="Google" width="30" height="30" /></a>
+        </td>
+                        <td>
+<a href="#"><img src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png" alt="" width="30" height="30" /></a>
+        </td>
+ <td>
+<a href="#"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="" width="30" height="30" /></a>
+        </td>
 
 ## Installation
 
