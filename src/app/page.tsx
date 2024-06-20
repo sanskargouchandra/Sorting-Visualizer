@@ -44,7 +44,7 @@ export default function Home() {
   };
 
   return (
-    <main className="absolute top-0 h-screen w-screen z-[-2] bg-[#000000] bg-[radial-gradient(#ffffff33_1px,#150229_1px)] bg-[size:40px_40px]">
+    <main className="absolute top-0 h-screen w-screen z-[-2] bg-[#000000] bak">
       <div className="flex h-full justify-center">
         <div
           id="content-container"

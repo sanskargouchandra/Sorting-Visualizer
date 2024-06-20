@@ -34,11 +34,16 @@ body {
 }
 
 .default-line-color {
-  background: theme("colors.system.purple50");
+  background:  #4158D0;
+  background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
 }
 
 .change-line-color {
   background: theme("colors.system.green60");
+}
+
+.bak{
+  background-image: linear-gradient( 111.4deg,  rgba(7,7,9,1) 6.5%, rgba(27,24,113,1) 93.2% );
 }
 
 @keyframes pulse {
